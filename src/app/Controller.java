@@ -1,3 +1,19 @@
+//=============================================================================
+// PROGRAMMER: Roberto Callejas
+// PANTHER ID: 6360177
+//
+// CLASS: COP2210
+// SECTION: U02C
+// SEMESTER: Summer 2023
+// CLASSTIME: 10:00 AM - 12:50 PM
+//
+// Project: Lab 1
+// DUE: May 14, 2023 @ 11:59 PM
+//
+// CERTIFICATION: I understand FIU’s academic policies, and I certify that this work is my
+//                                          own and that none of it is the work of any other person.
+//=============================================================================
+
 package app;
 
 public class Controller {
